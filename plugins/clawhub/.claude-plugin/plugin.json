@@ -1,0 +1,8 @@
+{
+  "name": "clawhub",
+  "description": "在 ClawHub 平台上提供邮轮产品信息，用户可以通过此技能获取最新邮轮产品详情。",
+  "version": "0.1.0",
+  "author": {
+    "name": "craftwave"
+  }
+}
